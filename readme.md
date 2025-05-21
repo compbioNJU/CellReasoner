@@ -1,6 +1,10 @@
 # CellReasoner: A reasoning-enhanced large language model for cell type annotation 🧬🧠
 
-[📄 Paper](https://arxiv.org/abs/your-paper-link) | [📊 Dataset](https://your-dataset-link) | [🤖 Model](https://huggingface.co/guangshuo/CellReasoner-7B)
+<div align="center">
+
+[📄 Paper](https://arxiv.org/abs/your-paper-link) | [📊 Dataset](#-training-data) | [🤖 Model](https://huggingface.co/guangshuo/CellReasoner-7B)
+
+</div>
 
 ---
 
