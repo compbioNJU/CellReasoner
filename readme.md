@@ -24,7 +24,7 @@
 
 ## 🔑 Key Results
 
-### [PDAC dataset](https://your-dataset-link)
+### [PDAC dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197177)
 
 | Model               | Score |
 |--------------------|-------|
@@ -38,7 +38,7 @@
 
 ---
 
-### [PBMC3K dataset](https://your-dataset-link)
+### [PBMC3K dataset](https://www.10xgenomics.com/cn/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
 
 | Model               | Score |
 |--------------------|-------|
@@ -58,8 +58,8 @@ Our CellReasoner models are available on Hugging Face 🤗:
 
 | Model                | Backbone                   | Link |
 |---------------------|----------------------------|------|
-| **CellReasoner-7B**  | Qwen2.5-7B-Instruct         | [🤗](https://huggingface.co/guangshuo/CellReasoner-7B) |
-| **CellReasoner-32B** | QwQ-32B-Instruct            | [🤗](https://huggingface.co/guangshuo/CellReasoner-32B) |
+| **CellReasoner-7B**  | [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)         | [🤗](https://huggingface.co/guangshuo/CellReasoner-7B) |
+| **CellReasoner-32B** | [QwQ-32B](https://huggingface.co/Qwen/QwQ-32B)      | [🤗](https://huggingface.co/guangshuo/CellReasoner-32B) |
 
 ---
 
@@ -76,7 +76,7 @@ We use the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) framework f
 Make sure you have a working conda environment with the necessary dependencies installed. We recommend:
 
 ```bash
-conda create -n cellreasoner python=3.10
+conda create -n cellreasoner python=3.11
 conda activate cellreasoner
 pip install -r requirements.txt
 ```
