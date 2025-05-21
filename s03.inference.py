@@ -1,8 +1,7 @@
 import os
 from pdb import run
-# os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 import torch
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import pandas as pd
 import argparse
