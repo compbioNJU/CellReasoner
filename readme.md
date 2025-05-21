@@ -24,7 +24,7 @@
   - [🏋️‍♂️ Training](#-training)
   - [📚 Training Data](#-training-data)
   - [🚀 Usage](#-usage)
-  - [📚 Citation](#-citation)
+  - [📚 Citation](#citation)
 
 ---
 
@@ -199,7 +199,7 @@ s03.inference.ipynb
 
 
 
-##  Citation
+## Citation
 
 Coming soon...
 
