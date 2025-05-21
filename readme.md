@@ -96,7 +96,7 @@ We adopt a **three-stage training strategy** combining reasoning scaffold, biolo
 | **pancancer38k**  | Knowledge Infusion        | 37,187        |
 | **pancancer4k**   |   Internal test dataset   | 3,800    |
 
-You can download the datasets from [here](https://your-download-link).
+You can download the datasets from [here](https://biobigdata.nju.edu.cn/CellReasonerDataset/).
 
 
 ## 🚀 Usage
