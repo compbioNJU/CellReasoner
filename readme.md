@@ -17,9 +17,9 @@
 ## 📌 Table of Contents
 
 - [📖 CellReasoner: A reasoning-enhanced large language model for cell type annotation 🧬🧠](#cellreasoner-a-reasoning-enhanced-large-language-model-for-cell-type-annotation-🧬🧠)
+  - [📌 Table of Contents](#-table-of-contents)
   - [🔬 Key Highlights](#-key-highlights)
   - [🔑 Key Results](#-key-results)
-  - [📌 Table of Contents](#-table-of-contents)
   - [🧠 Model Zoo](#-model-zoo)
   - [🏋️‍♂️ Training](#-training)
   - [📚 Training Data](#-training-data)
@@ -92,9 +92,9 @@ We adopt a **three-stage training strategy** combining reasoning scaffold, biolo
 
 | Dataset Name   | Training Stage         | Samples |
 |----------------|------------------------|----------|
-| **CellCoT**       | Reasoning Scaffold       | 380      |
+| **CellCoT**       | Reasoning Scaffold, Reasoning Mode Fusion       | 380      |
 | **pancancer38k**  | Knowledge Infusion        | 37,187        |
-| **pancancer4k**   | Reasoning Mode Fusion     | 3,800    |
+| **pancancer4k**   |   Internal test dataset   | 3,800    |
 
 You can download the datasets from [here](https://your-download-link).
 
