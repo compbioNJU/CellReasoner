@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[📄 Paper](https://arxiv.org/abs/your-paper-link) | [📊 Dataset](#-training-data) | [🤖 Model](https://huggingface.co/guangshuo/CellReasoner-7B)
+[📄 Paper](https://www.biorxiv.org/content/10.1101/2025.05.20.655112v1) | [📊 Dataset](#-training-data) | [🤖 Model](https://huggingface.co/guangshuo/CellReasoner-7B)
 
 </div>
 
@@ -201,7 +201,18 @@ s03.inference.ipynb
 
 ## Citation
 
-Coming soon...
+```bibtex
+@article {Cao2025.05.20.655112,
+	author = {Cao, Guangshuo and Shen, Yi and Wu, Jianghong and Chao, Haoyu and Chen, Ming and Chen, Dijun},
+	title = {CellReasoner: A reasoning-enhanced large language model for cell type annotation},
+	elocation-id = {2025.05.20.655112},
+	year = {2025},
+	doi = {10.1101/2025.05.20.655112},
+	URL = {https://www.biorxiv.org/content/early/2025/05/26/2025.05.20.655112},
+	eprint = {https://www.biorxiv.org/content/early/2025/05/26/2025.05.20.655112.full.pdf},
+	journal = {bioRxiv}
+}
+```
 
 ---
 
